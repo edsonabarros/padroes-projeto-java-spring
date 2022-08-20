@@ -1,10 +1,10 @@
-package online.edsonabarros.labpadroesprojetospring;
+package online.edsonabarros.gof;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LabPadroesProjetoSpringApplicationTests {
+class LabPadroesProjetoSpringDioApplicationTests {
 
 	@Test
 	void contextLoads() {
