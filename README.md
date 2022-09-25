@@ -15,5 +15,6 @@
     <h4> Descrição </h4>
     <p> No projeto, foram utilizados os padrões Singleton, Strategy e Facade, com a explicação de suas implementações com Java (puro) e com Spring, utilizando uma consulta com a API do ViaCep.</p>
     <p>O modelo base do projeto foi disponibilizado pelo estrutor da Digital Innovation One no Bootcamp Spring Framework Experience. </p>
+    <a href="https://www.dio.me/certificate/567A98D7/share"> Certificado de conclusão.</a>
     
     
